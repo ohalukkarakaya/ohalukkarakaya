@@ -7,7 +7,7 @@ De Castilla La Mancha" in Cuenca, Spain for 6 months in 2019 as an "Erasmus Exch
 If I need to mention my internship and work experience, I took part in the "NATO Internship" program as a graphic
 design intern at NATO's S.H.A.P.E headquarters in Mons, Belgium between 06.2020 - 09.2020 and 06.2021 - 11.2021.
 
-At B2 level, I can speak English fluently and Turkish as a mother tongue.
+I can speak English at B2 level and Turkish as a mother language.
 
 In my abilities, I can use Adobe Illustrator, Adobe InDesign, Adobe Photoshop, Adobe Lightroom, HTML / CSS / JavaScript
 / PHP / Dart / Flutter and Microsoft Office programs well. I see myself as an interface designer & developer in a company
