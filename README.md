@@ -13,6 +13,6 @@ In my abilities, I can use Adobe Illustrator, Adobe InDesign, Adobe Photoshop, A
 / PHP / Dart / Flutter and Microsoft Office programs well. I see myself as an interface designer & developer in a company
 working on flutter in the future.
 
-My hobbies include reading, Traveling, camping, photography and drawing.
+My hobbies include reading, traveling, camping, photography and drawing.
 
 I describe myself as someone who is determined, disciplined and compatible with teamwork and has a solution-oriented approach.
