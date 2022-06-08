@@ -1,5 +1,5 @@
 
-![header](https://user-images.githubusercontent.com/85846854/172565979-012db156-b9c8-43f0-8f73-4fe2507adc03.jpg)
+![header](https://user-images.githubusercontent.com/85846854/172644431-36c7ce0b-8224-4b9a-9c3a-3ca0f812d240.jpg)
 
 
 <h1 align="center">Hi 👋, &nbsp; I'm Özgür Haluk KARAKAYA</h1>
