@@ -31,11 +31,11 @@ I describe myself as someone who is determined, disciplined, compatible with tea
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" /> </p>
 
-- 👨‍💻 All of my projects are available at **[behance.net/ohalukkarakaya](behance.net/ohalukkarakaya)**
+- 👨‍💻 All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
 
 - 💬 Ask me about **Flutter, JavaScript, PHP**
 
-- 📫 How to reach me **[linkedin.com/in/ohalukkarakaya](linkedin.com/in/ohalukkarakaya)**
+- 📫 How to reach me **[linkedin.com/in/ohalukkarakaya](https://www.linkedin.com/in/ohalukkarakaya)**
 
 <h3 align="left">Connect with me:</h3>
 
