@@ -21,7 +21,7 @@
 <h3 align="left">Contact:</h3>
 <br>
   
-| <a href="https://linkedin.com/in/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172603895-4b492ad3-de88-40f3-9a20-b326cc8b62e2.svg" alt="ohalukkarakaya" height="40" width="40" /></a> | <a href="https://www.behance.net/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172604217-5f1437ee-eaa6-4eaf-a181-8493f48191ae.svg" alt="ohalukkarakaya" height="40" width="40" /></a> | <a href="https://github.com/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172677788-9f18619e-14fb-4bc9-8d99-106a0a1a6d18.svg" alt="ohalukkarakaya" height="40" width="40" /></a> |
+| &nbsp;<a href="https://linkedin.com/in/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172603895-4b492ad3-de88-40f3-9a20-b326cc8b62e2.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; | &nbsp;<a href="https://www.behance.net/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172604217-5f1437ee-eaa6-4eaf-a181-8493f48191ae.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; | &nbsp;<a href="https://github.com/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172677788-9f18619e-14fb-4bc9-8d99-106a0a1a6d18.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; |
 
 
 <br>
