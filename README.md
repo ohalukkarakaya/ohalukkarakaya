@@ -16,7 +16,7 @@
 
 - Ask me about **Flutter, JavaScript, PHP**
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 
   
 | <a href="https://linkedin.com/in/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172603895-4b492ad3-de88-40f3-9a20-b326cc8b62e2.svg" alt="ohalukkarakaya" height="30" width="40" /></a> | <a href="https://www.behance.net/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172604217-5f1437ee-eaa6-4eaf-a181-8493f48191ae.svg" alt="ohalukkarakaya" height="30" width="40" /></a> |
