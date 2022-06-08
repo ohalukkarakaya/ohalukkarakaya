@@ -8,7 +8,6 @@
 <p align="center">I am a young <b>Graphic / Interface Designer</b> and <b>Front-End Developer</b> from <b>Turkey</b> </p>
 <br>
 
-<img align="right" alt="haluk" width="300" src="https://user-images.githubusercontent.com/85846854/172667484-74b18d92-1534-4cb9-bafd-71e9c935d243.png"/>
 <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
 
 - All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
