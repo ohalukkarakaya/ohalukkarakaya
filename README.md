@@ -19,7 +19,7 @@
 <br>
 
 <h3 align="left">Contact:</h3>
-
+<br>
   
 | <a href="https://linkedin.com/in/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172603895-4b492ad3-de88-40f3-9a20-b326cc8b62e2.svg" alt="ohalukkarakaya" height="40" width="40" /></a> | <a href="https://www.behance.net/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172604217-5f1437ee-eaa6-4eaf-a181-8493f48191ae.svg" alt="ohalukkarakaya" height="40" width="40" /></a> | <a href="https://github.com/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172677788-9f18619e-14fb-4bc9-8d99-106a0a1a6d18.svg" alt="ohalukkarakaya" height="40" width="40" /></a> |
 
@@ -27,7 +27,8 @@
 <br>
 <br>
 <h3 align="left">Abilities:</h3>
-<br>- <b>HTML / CSS :</b>
+<br>- <b>HTML / CSS :</b> &nbsp;
+<br>
 
 |
 <img align="center" src="https://user-images.githubusercontent.com/85846854/172659166-24a4cf56-2c2f-4ceb-b383-2c1beb4b0b76.png" height="30" width="30" />
@@ -79,6 +80,7 @@
 
 <h1></h1>
 <br>
+<br>
 <p align="justify">I am a young <b>Graphic / Interface Designer</b> and Front-End Developer who is proficient in graphic design and has strong social skills. I started my education life in Ankara Gazi University Graphic Design Department in 2017. Then I transferred to Akdeniz University Fine Arts Faculty Graphic Design Department in 2018 and graduated in 2021 with a grade of 3.25 / 4.00. While I was continuing my education at Akdeniz University, I was at the University of "Universidad De Castilla La Mancha" in Cuenca, Spain for 6 months in 2019 as an "Erasmus Exchange Student".
 <br>
 <br>
@@ -93,9 +95,9 @@ My hobbies include reading, Traveling, camping, photography and drawing.
 <br>
 I describe myself as someone who is determined, disciplined, compatible with teamwork and has a solution-oriented approach.
 </p>
-
+<br>
 <h1></h1>
-
+<br>
 <img align="left" alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
 
 
