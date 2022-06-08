@@ -8,8 +8,11 @@
 <p align="center">I am a <b>Graphic / Interface Designer</b> and <b>Front-End Developer</b> from <b>Turkey</b> </p>
 <br>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
+</p>
 
+<br>
 
 - All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
 
@@ -98,6 +101,8 @@ I describe myself as someone who is determined, disciplined, compatible with tea
 <br>
 <h1></h1>
 <br>
-<img align="left" alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
 
+<p align="center">
+<img alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
+</p>
 
