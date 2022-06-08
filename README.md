@@ -1,18 +1,12 @@
 
-![header](https://user-images.githubusercontent.com/85846854/172644431-36c7ce0b-8224-4b9a-9c3a-3ca0f812d240.jpg)
+![header](https://user-images.githubusercontent.com/85846854/172655044-ea2fe9f5-b955-46f6-88e6-808b796e673f.gif)
 
 
 <h1 align="center">Hi 👋, &nbsp; I'm Özgür Haluk KARAKAYA</h1>
 <br>
-<img align="right" alt="haluk" width=28% src="https://user-images.githubusercontent.com/85846854/172571283-529f9844-e4b6-4c13-b04e-337e941bf0f6.png">
+<img align="right" alt="haluk" width=26% src="https://user-images.githubusercontent.com/85846854/172571283-529f9844-e4b6-4c13-b04e-337e941bf0f6.png">
 
 
-
-<img align="left" alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
-<br>
-<br>
-<br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
 
 - All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
@@ -44,8 +38,9 @@ My hobbies include reading, Traveling, camping, photography and drawing.
 <br>
 I describe myself as someone who is determined, disciplined, compatible with teamwork and has a solution-oriented approach.
 </p>
+
 <h1></h1>
-<br>
-<img width="1021" alt="Ekran Resmi 2022-06-08 17 01 32" src="https://user-images.githubusercontent.com/85846854/172636404-f52bbc0c-7964-4818-976c-2ac566a812d3.png">
+
+<img align="left" alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
 
 
