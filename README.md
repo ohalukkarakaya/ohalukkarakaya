@@ -29,6 +29,10 @@ I describe myself as someone who is determined, disciplined, compatible with tea
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" /> </p>
 
 - 👨‍💻 All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
