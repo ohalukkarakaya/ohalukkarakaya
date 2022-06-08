@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, &nbsp; I'm Özgür Haluk KARAKAYA</h1>
 <br>
 
-<p align="center">I am a young <b>Graphic / Interface Designer</b> and <b>Front-End Developer</b> from <b>Turkey</b> </p>
+<p align="center">I am a <b>Graphic / Interface Designer</b> and <b>Front-End Developer</b> from <b>Turkey</b> </p>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
