@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
+<img alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
 </p>
 
 <br>
@@ -103,6 +103,6 @@ I describe myself as someone who is determined, disciplined, compatible with tea
 <br>
 
 <p align="center">
-<img alt="halukLogo" height=20% src="https://user-images.githubusercontent.com/85846854/172588394-580a5948-0813-408e-a1b8-77ffcbf62108.png">
+<img src="https://komarev.com/ghpvc/?username=ohalukkarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="ohalukkarakaya" />
 </p>
 
