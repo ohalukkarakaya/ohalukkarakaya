@@ -14,18 +14,19 @@
 
 <br>
 
-- All of my projects are available at **[behance.net/ohalukkarakaya](https://www.behance.net/ohalukkarakaya)**
+<p align="center"> All of my projects are available at &nbsp; <b><a href="https://www.behance.net/ohalukkarakaya">behance.net/ohalukkarakaya</a></b> </p>
 
-- You can reach me on **[linkedin.com/in/ohalukkarakaya](https://www.linkedin.com/in/ohalukkarakaya)**
+<p align="center">You can reach me on &nbsp; <b><a href="https://www.linkedin.com/in/ohalukkarakaya">linkedin.com/in/ohalukkarakaya</a></b></p>
 
-- Ask me about **Flutter, JavaScript, PHP**
+<p align="center">Ask me about &nbsp; <b>Flutter, JavaScript, PHP</b></p>
 <br>
 
-<h3 align="left">Contact:</h3>
+<h3 align="center">Contact:</h3>
 <br>
-  
+
+<p align="center">
 | &nbsp;<a href="https://linkedin.com/in/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172603895-4b492ad3-de88-40f3-9a20-b326cc8b62e2.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; | &nbsp;<a href="https://www.behance.net/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172604217-5f1437ee-eaa6-4eaf-a181-8493f48191ae.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; | &nbsp;<a href="https://github.com/ohalukkarakaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85846854/172677788-9f18619e-14fb-4bc9-8d99-106a0a1a6d18.svg" alt="ohalukkarakaya" height="40" width="40" /></a>&nbsp; |
-
+</p>
 
 
 <h1></h1>
